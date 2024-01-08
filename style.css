@@ -80,3 +80,6 @@ ol, ul {
         a:hover {
             color: #905D5D;
         }
+.ul {
+    align-items: center;
+}
