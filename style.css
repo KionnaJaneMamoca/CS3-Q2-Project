@@ -93,7 +93,22 @@ color: #E9967A;
 transform: translateY(10px);
 color: #E9967A;
 }
-.logo{
+.logo1{
+position:left;
+font-size:30px;
+color: black;
+}
+.logo2{
+position:left;
+font-size:30px;
+color: black;
+}
+.logo3{
+position:left;
+font-size:30px;
+color: black;
+}
+.logo4{
 position:left;
 font-size:30px;
 color: black;
