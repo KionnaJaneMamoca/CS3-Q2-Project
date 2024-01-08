@@ -80,6 +80,16 @@ ol, ul {
         a:hover {
             color: #905D5D;
         }
-.ul {
-    align-items: center;
+.icon{
+position:center;
+font-size:25px;
+color: black;
+}
+.icon1:hover{
+transform: translateY(-10px);
+color: #905D5D;
+}
+.icon2:hover{
+transform: translateY(10px);
+color: #905D5D;
 }
