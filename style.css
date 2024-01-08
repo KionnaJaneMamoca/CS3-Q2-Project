@@ -87,9 +87,9 @@ color: black;
 }
 .icon1:hover{
 transform: translateY(-10px);
-color: #905D5D;
+color: #E9967A;
 }
 .icon2:hover{
 transform: translateY(10px);
-color: #905D5D;
+color: #E9967A;
 }
