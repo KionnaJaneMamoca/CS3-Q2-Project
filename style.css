@@ -74,3 +74,9 @@ h2 {
 ol, ul {
     margin-left: 20px;
 }
+ a {
+            color: black;
+        }
+        a:hover {
+            color: #905D5D;
+        }
